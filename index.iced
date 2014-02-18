@@ -10,6 +10,7 @@ class Env
   constructor : ( {@use_color, @level}) ->
   set_level : (l) -> @level = l
   set_use_color : (c) -> @use_color = c
+  get_level : () -> @level
 
 #=========================================================================
 

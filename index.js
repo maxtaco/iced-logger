@@ -21,6 +21,10 @@
       return this.use_color = c;
     };
 
+    Env.prototype.get_level = function() {
+      return this.level;
+    };
+
     return Env;
 
   })();
