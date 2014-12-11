@@ -1,6 +1,6 @@
 {
   "name": "iced-logger",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Simple logger for node.js apps",
   "homepage": "https://github.com/maxtaco/iced-logger",
   "main": "./index",
